@@ -1,11 +1,3 @@
-# Praktikum 12 – Autentikasi dan Session (PHP OOP)
-
-Nama: ..........................................
-NIM: ...........................................
-Kelas: .........................................
-
----
-
 ## 1. Pendahuluan
 
 Praktikum 12 membahas tentang **Autentikasi dan Session** pada aplikasi web berbasis PHP dengan konsep **Object Oriented Programming (OOP)**. Pada praktikum ini, mahasiswa mempelajari cara membuat sistem login sederhana, membatasi akses halaman menggunakan session, serta menambahkan fitur profil untuk user yang sedang login.
